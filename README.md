@@ -29,5 +29,5 @@ On this website I will share my journey on teaching myself how to code.
 - Improve mobile design
 - Add more pages
 
-## Ocean
-Your Name or GitHub Username
+## Author
+Ocean

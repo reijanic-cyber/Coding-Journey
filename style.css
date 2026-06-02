@@ -4,18 +4,9 @@
  
 );
 color: rgb(38, 59, 59);
-}
-  h1{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}  
-
-h2{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-p{
-font-family: fantasy;
-}
 
 a{
     color: azure;
@@ -26,15 +17,9 @@ a{
 
 a:hover{
     color: #000;
+    text-decoration: underline;
 }
 
-h3{
-    font-family: cursive;
-}
-
-li{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
 .done{
     text-decoration: line-through;

@@ -10,7 +10,7 @@ body{background: linear-gradient(
  
 );
 color: rgb(38, 59, 59);
-overflow: hidden;
+
 }
     
 .main{height:100vh;
@@ -78,6 +78,7 @@ a{
 
 a:hover{
     color: #000;
+    text-decoration: underline;
 }
 
 
